@@ -7,7 +7,7 @@ class BigCoffee {
     context = context || document
 
     const elements = context.querySelectorAll(selector)
-    elements.__proto__ = BigCoffee.methods
+    elements.setPrototypeOf(BigCoffee.methods)
 
     return elements
   }
