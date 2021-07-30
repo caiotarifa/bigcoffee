@@ -1,0 +1,19 @@
+{
+  "name": "bigcoffee",
+  "version": "1.0.0",
+  "description": "BigCoffee ☕️ is a next generation DOM toolbox, written in EcmaScript 6 and inspired by (but unlike) jQuery.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiotarifa/bigcoffee.git"
+  },
+  "author": "Caio Tarifa <caiotarifa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caiotarifa/bigcoffee/issues"
+  },
+  "homepage": "https://github.com/caiotarifa/bigcoffee#readme"
+}
